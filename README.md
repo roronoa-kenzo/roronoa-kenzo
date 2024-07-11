@@ -1,9 +1,8 @@
 
-HI👋 , I'M KENZO
-✨ A Fullstack mobile web and web developer ✨
+#HI👋 , I'M KENZO
 
-🌱 I’m currently learning Javascript
+###✨ A Fullstack mobile web and web developer ✨
 
-📫 How to reach me kenzotanougast@gmail.com
+###📫 How to reach me kenzotanougast@gmail.com
 
-⚡ Creativity and imagination are my words !
+###⚡ Creativity and imagination are my words !
